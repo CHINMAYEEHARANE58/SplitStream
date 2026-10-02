@@ -1,0 +1,1 @@
+"""SplitStream application."""
